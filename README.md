@@ -20,7 +20,7 @@
 
 
  
- ## Big O Notation ile gösterim:
+ ## Big-O gösterimİ:
  n + (n-1) + (n-2) +... + 1 -> n.(n+1)/2 -> O(n^2)
  ## Dizi insertion sort yöntemiyle sıralandıktan sonra 18 sayısı ortada bulunduğundan dolayı Average Case kapsamına girer
 
